@@ -1,0 +1,47 @@
+HeroCraft Privacy Policy
+We take your privacy seriously and we are committed to safeguard your privacy, and this privacy policy explains our data collection, use, and disclosure practices concerning end-users of our apps, site www.herocraft.com and YourCraft social service.
+If you have specific questions about how we deal with this information, or if you want to obtain a copy / delete the personal information about you that you provide through the Site or through our apps, please contact us by email support@herocraft.com
+Our policy may be updated from time to time. Latest version will be posted on our site.
+
+Information collected
+We are keeping information about installation of our apps on your device (like time, date, IP-address). We are keeping the unique ID of your device, if it is submitted by your device during installation.
+We can request some information directly for the purpose of registering you in the YourCraft social network or high scores system (like e-mail address). If you are purchasing the license via our web-site we will store your IP-address, country information, mobile number and the transaction information.
+We may also automatically record your Advertising ID for advertising or analytics purposes. These IDs do not reveal any specified information about the user. Though, if you want to reset your Advertising ID, you can follow these instructions:
+for Android devices: https://support.google.com/ads/answer/2662922
+for iOS devices: https://support.apple.com/en-us/HT202074
+On our website, we use Cookies. Cookies are small bits of information used, in our case, to store user's preferred language and some other settings during current browser's session. You can set your browser to stop accepting cookies which can lead to functionality of our site decreased.
+
+Subscriptions
+In some of our apps we use subscriptions in order to provide you with interesting offers. Technically, these subscriptions are provided by Google Play / App Store, and we do not collect any extra information besides your email address.
+For App Store Auto Renewable subscriptions, you can turn off auto-renew by following this instruction: https://support.apple.com/en-us/HT202039
+How do we use it
+We process the this information in an anonymous way for the general purposes:
+to provide you with services
+to communicate with you via email and to respond to your questions and comments
+for statistical purposes which help us to improve the quality of the services we provide
+How do we store it
+We have physical, electronic, and procedural safeguards that comply with regulations to protect personal information. However, the internet is not a 100% secure environment, and we cannot guarantee the security of any information you transmit to us.
+
+How do we share it
+We do not give access to our information to the third parties, we never link our information to any other databases. We have never received any requests from the state authorities of any country for providing such information.
+However, we believe it is necessary to share information if it is required by law, in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person.
+
+Miscellaneous
+Some of our Android apps were reported to be requesting access to the contacts book of the mobile phones. This is required by the “tell a friend” feature. Nevertheless, your contacts information is used within your phone and never downloaded by us.
+
+External links
+Our website and some of our apps may have links to other sites, apps and services. They do not operate under this Privacy Policy, we recommend you to review their own privacy policies.
+
+Consent to this Policy
+By using our website and apps, you are confirming that you are agreed to our Privacy Policy. In case you do not agree with it, please, don't use our products.
+
+Agreement with this Policy
+By using our website and apps, you are confirming that you are agreed with our Privacy Policy. In case you do not agree with it, we recommend you to refrain from using our products.
+
+Tell us which marketing messages are acceptable to you.
+Email us at press@herocraft.com to tell us your marketing preferences.
+Stop receiving HeroCraft marketing emails by clicking the unsubscribe link included at the bottom of HeroCraft marketing emails. You cannot opt out of certain emails we need to send you relating to normal business operations (for example, we may email you to deliver a content that your bought using the HeroCraft online service).
+Contact us
+Should you have any other requests regarding privacy, please, contact us at: privacy@herocraft.com
+
+

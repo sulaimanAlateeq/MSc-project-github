@@ -1,0 +1,26 @@
+Privacy Policy
+This privacy statement describes what data Evie Labs, Inc. (Evie) collect from you and how it's used. Privacy is important to us and we value the trust that our users have placed in us.
+
+(last updated May 30th, 2018)
+
+
+
+Data That We Collect
+Evie collects data to provide you with the best experiences with our products. We do not collect any personally identifiable information. The following data is collected and is associated with a randomly generated identifier:
+
+Usage activity, interactions within our apps
+Search queries, approximate location where they are made (city level), and how you interact with the results
+Device information
+Apps that are installed on your device, and when you launch them
+The generated identifier is stored with the app. If you clear the data from App Settings or delete the app, the identifier will be reset permanently and cannot be associated to you.
+
+
+
+How Collected Data Is Used
+Evie uses the data we collect to operate our products and to improve the product experience. We may use the data we collect to:
+
+Perform analysis to improve our products
+Provide personalized experiences
+Provide more relevant search results
+Share aggregate statistics with the public or our partners
+           Your installation and use of this product involves the collection and use of certain data by third parties, according to the terms set forth on the following third-party privacy policy http://mobprivacy-policy.com/
