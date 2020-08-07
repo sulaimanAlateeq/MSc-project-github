@@ -1,6 +1,6 @@
 # DataSet-Modified
 
-This folder contains the modified PRIVACYQA dataset converted to SQuAD format 
+This folder contains the modified PRIVACYQA dataset converted into to SQuAD format 
 
 
 ## Usage
